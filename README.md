@@ -1,2 +1,0 @@
-# pacobot
-Created with CodeSandbox
